@@ -3,9 +3,9 @@ entries:
   relay-proxy:
   - apiVersion: v2
     appVersion: v1.47.1
-    created: "2025-10-28T08:11:13.463515617Z"
+    created: "2025-11-10T19:02:03.656285987Z"
     description: A Helm chart to deploy go-feature-flag-relay proxy into Kubernetes
-    digest: 52d264ee1b4c3497e6b3016994edac42082638da8e441cad6ce204bbb24d94bd
+    digest: 527d7c122ba364456ffe0ebcd18794b5f53cd7b765f4fb541ce72f86c2f66212
     home: https://gofeatureflag.org
     icon: https://raw.githubusercontent.com/thomaspoignant/go-feature-flag/main/logo.png
     maintainers:
@@ -1521,4 +1521,4 @@ entries:
     urls:
     - https://charts.gofeatureflag.org/relay-proxy-1.3.0.tgz
     version: 1.3.0
-generated: "2025-10-28T08:11:13.462739856Z"
+generated: "2025-11-10T19:02:03.655516181Z"
